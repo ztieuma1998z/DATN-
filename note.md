@@ -1,0 +1,6 @@
+- [ ] Vẽ life cycle
+- [ ] Tự tạo thời khóa biểu tự động, cập nhật theo giáo viên bằng tay
+- [ ] Đổi dời lịch học:
+  - Đánh dấu buổi nghỉ là nghỉ, tạo buổi mới rồi đánh dấu là học bù
+- [ ] Check trùng lịch, phòng, ca
+- Điểm danh theo link/giáo viên/người thứ 3(admin?)
